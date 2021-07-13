@@ -20,6 +20,7 @@ body{
   font-size: 1.2rem;
   letter-spacing: 2px;
   font-weight: normal;
+  text-align: center;
 }
 .title h2, .title p{
   text-align: center;
